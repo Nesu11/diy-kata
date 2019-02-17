@@ -12,5 +12,6 @@ export const fizzBuzz = (number) => {
     return 'Fizz'
   }
   return number
+
 }
 module.exports = fizzBuzz;

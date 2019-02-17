@@ -10,6 +10,7 @@ const reachDestination = (distance, speed) => {
 
   return timeRounded.toString()
 
+
 }
 
 
