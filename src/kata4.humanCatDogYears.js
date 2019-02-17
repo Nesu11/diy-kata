@@ -1,4 +1,8 @@
+//Really good, clear code here.
+//Well done
+
 const humanCatDogYears = (number) => {
+
  if(number === 0){ 
      return [0,0,0]
  }

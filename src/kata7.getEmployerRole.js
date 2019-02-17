@@ -1,5 +1,9 @@
+//Great simple and concise code.
+//Well done
+
 const getEmployerRole = (employeeName, employees) => {
-    return employees.find(person => person.name === employeeName).role
+  return employees.find(person => person.name === employeeName).role
+
 
 }
 
